@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  :bar_chart: ExpensesApp Application using React Native, Expo, TypeScript, Victory Native, react-native-svg e Intl.js
+  :bar_chart: ExpensesApp Application using React Native, Expo, TypeScript, Victory Native, react-native-svg and Intl.js
 </p>
 
 <p align="center">
